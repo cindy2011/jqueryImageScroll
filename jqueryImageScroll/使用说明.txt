@@ -1,0 +1,1 @@
+jquery.ImageScroll.js是按钮控制图片左右移动的插件，一次移动一张
